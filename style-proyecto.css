@@ -172,7 +172,21 @@ form label {
 
 form input {
     display: block;
-    margin: 0 0 20px;
+    margin: 20px 0 20px;
     padding: 10px 25px;
     width: 50%;
+}
+
+.submit {
+    width: 20%;
+    background-color: black;
+    color: #cdced1;
+    font-weight: bold;
+    border: none;
+    border-radius: 7px;
+}
+
+.submit:hover {
+    background-color: brown;
+    cursor: pointer;
 }
