@@ -162,7 +162,8 @@ main {
     display: block;
 }
 form {
-    display: block;
+    float: right;
+    margin: 30px -100px 200px 0px;
 }
 
 form label {
@@ -189,4 +190,8 @@ form input {
 .submit:hover {
     background-color: brown;
     cursor: pointer;
+}
+
+main div {
+    display: inline;
 }
