@@ -1,5 +1,8 @@
 /*Css para pa página index.html */
 
+body {
+    background-color: rgb(12 219 219 / 25%);
+}
 .menu_nombre {
     width: 30%;
     padding: 30px 0px;
